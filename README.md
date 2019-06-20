@@ -1,4 +1,6 @@
 # ipkiss_meep_integration
+![GitHub](https://img.shields.io/github/license/luceda/ipkiss_meep_integration.svg)
+
 Integration between IPKISS (Luceda Photonics) and the Meep FDTD solver
 
 IPKISS: www.lucedaphotonics.com
